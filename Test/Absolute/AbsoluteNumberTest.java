@@ -1,5 +1,6 @@
-package SimpleCalculator;
+package Absolute;
 
+import Absolute.AbsoluteNumber;
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 

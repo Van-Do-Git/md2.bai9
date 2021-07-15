@@ -1,4 +1,4 @@
-package SimpleCalculator;
+package Absolute;
 
 public class AbsoluteNumber {
     public int abs(int number){
